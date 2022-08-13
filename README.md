@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hanok-Solomon-Vangepurapu Specialation with Computer Science and Engneering in IIT-Madras
 - 👀 I’m interested in Big Data concepts
 - 🌱 I’m currently learning  Deep learning,Machine learning and Artifical intelligence 
-- 💞️ I’m looking to collaborate on Data sciene Projects
+- 💞️ I’m looking to collaborate on Data science Projects
 - 📫 How to reach me through my Gmail cs18b061@smail.iitm.ac.in
 
 <!---
