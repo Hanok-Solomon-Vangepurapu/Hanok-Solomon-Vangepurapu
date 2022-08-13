@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Hanok-Solomon-Vangepurapu Specialation with Computer Science and Engneering in IIT-Madras
-- 👀 I’m interested in  Data Science and Big Data concepts
-- 🌱 I’m currently learning  Deep learning,Machine learning and Artifical intelligence 
-- 💞️ I’m looking to collaborate on Data science Projects
-- 📫 How to reach me through my Gmail cs18b061@smail.iitm.ac.in
+- 👋 Hi, I’m  Hanok Solomon Vangepurapu Currently Studying In IIT-Madras With Speclization Computer Science And Engneering 
+- @Hanok-Solomon-Vangepurapu
+- 👀 I’m interested in DATA SCIENCE,,BIG DATA CONCEPTS, ARTIFICAL INTELIGENCE 
+- 🌱 I’m currently learning ... MACHINE LEARNING, DEEP LEARNING And ARITFICAL INTELIGENCE
+- 💞️ I’m looking to collaborate on  DATA SCIENCE PROJECTS, MACHINE LEARNING
+- 📫 How to reach me  through  MY Gmail: cs18B061@smail.iitm.ac.in 
 
 <!---
 Hanok-Solomon-Vangepurapu/Hanok-Solomon-Vangepurapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
