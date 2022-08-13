@@ -3,7 +3,7 @@
 - 👀 I’m interested in DATA SCIENCE,,BIG DATA CONCEPTS, ARTIFICAL INTELIGENCE 
 - 🌱 I’m currently learning ... MACHINE LEARNING, DEEP LEARNING And ARITFICAL INTELIGENCE
 - 💞️ I’m looking to collaborate on  DATA SCIENCE PROJECTS, MACHINE LEARNING
-- 📫 How to reach me  through  MY Gmail: cs18B061@smail.iitm.ac.in 
+- 📫 How to reach me  through  My Mail: cs18B061@smail.iitm.ac.in 
 
 <!---
 Hanok-Solomon-Vangepurapu/Hanok-Solomon-Vangepurapu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
